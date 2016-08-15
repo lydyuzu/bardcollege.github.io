@@ -231,8 +231,8 @@ var default_responses = [
   "Very interesting",
   "I am not sure I understand you fully",
   "What does that suggest to you?",
-  "Please continue",
-  "Go on",
+  "Please don't continue",
+  "Fuk off",
   "Do you feel strongly about discussing such things?",
 ];
 
